@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Fingertips Position Estimation of a Robot Hand"
+excerpt: "Use functions provide a convenient and effective way to load, process, and analyze data for machine learning purposes.<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 

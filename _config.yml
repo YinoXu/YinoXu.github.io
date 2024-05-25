@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Yinuo Xu/ Personal Homepage"
+title                    : "Yinuo Xu / Personal Homepage"
 title_separator          : "-"
 name                     : &name "Yinuo Xu"
 description              : &description "Graduate Student Majoring in Computer Science at Upenn"
