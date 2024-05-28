@@ -6,8 +6,8 @@
   @include container;
   @include clearfix;
   margin-top: 2em;
-  padding-left: 1em;
-  padding-right: 1em;
+  padding-left: 3em;
+  padding-right: 3em;
   animation: intro 0.3s both;
   animation-delay: 0.35s;
 
@@ -18,9 +18,11 @@
 
 .page {
   @include breakpoint($large) {
-    @include span(10 of 12 last);
+    @include span(9 of 12 last);
     @include prefix(0.5 of 12);
     @include suffix(2 of 12);
+    padding-left: 2em; // Added padding to create space
+    padding-right: 2em; // Added padding for symmetry
   }
 
   .page__inner-wrap {

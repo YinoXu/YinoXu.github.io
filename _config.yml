@@ -8,10 +8,10 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Yinuo Xu / Personal Homepage"
+title                    : "Yinuo Xu's Personal Homepage"
 title_separator          : "-"
 name                     : &name "Yinuo Xu"
-description              : &description "Graduate Student Majoring in Computer Science at Upenn"
+description              : &description "Student at Upenn"
 url                      : https://YinoXu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "YinoXu/YinoXu.github.io"
@@ -23,12 +23,12 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Yinuo Xu"
-  pronouns         : "she/her" # example: "she/her"  
+  pronouns         : "She/Her" # example: "she/her"  
   bio              : "Tech Enthusiast"
-  location         : "3025 John F Kennedy Blvd Philadelphia, PA 19104"
+  location         : "3025 JFK Blvd, Philadelphia"
   employer         : "University of Pennsylvania"
-  uri              : # URL
-  email            : "xuyinuo@seas.upenn.edu" 
+  #uri              : "https://github.com/YinoXu/" # URL
+  #email            : "xuyinuo@seas.upenn.edu" 
 
   # Academic websites
   # arxiv            : # URL - Update with the correct link to your profile
@@ -43,8 +43,8 @@ author:
   # bitbucket        : # Username - Update with your username on the site
   # codepen          : # Username
   # dribbble         : # Username
-  github           : "https://github.com/YinoXu/"
-  kaggle           : "https://www.kaggle.com/yinoxu"
+  github           : "YinoXu"
+  kaggle           : "yinoxu"
   # stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # # Social media
@@ -55,9 +55,9 @@ author:
   # goodreads        : # Username
   # google_plus      : # Username
   # keybase          : # Username
-  instagram        : "https://www.instagram.com/yinoo_xu/"
+  instagram        : "yinoo_xu"
   # lastfm           : # Username
-  linkedin         : "https://www.linkedin.com/in/yinuo-xu-430b0b203/"
+  linkedin         : "yinuo-xu-430b0b203"
   # mastodon         : # URL
   # medium           : # URL
   # pinterest        : # Username
