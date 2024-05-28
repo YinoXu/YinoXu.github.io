@@ -11,7 +11,7 @@ body {
   margin: 0;
   padding: $masthead-height 0 0;
   padding-bottom: 9em;
-  color: $text-color;
+  color: #17202A;
   font-family: $global-font-family;
   line-height: 1.5;
 
@@ -248,7 +248,7 @@ figcaption {
     transition: $global-transition;
 
     &:hover {
-      color: #000;
+      color: #000000;
       border-bottom-color: #000;
     }
   }
