@@ -259,13 +259,15 @@
     padding: 5px;
     border: 1px solid $border-color;
     border-radius: $border-radius;
-    background: #fff;
+    background: #7f0017;
     box-shadow: 0 0 10px rgba(#000, 0.25);
 
     a {
       margin: 0;
       padding: 10px 20px;
       font-size: $type-size-5;
+      color: #ffffff;
+
 
       &:hover {
         color: $masthead-link-color-hover;
@@ -339,7 +341,6 @@
     padding-right: 0.5em;
     color: #fff;
     font-weight: bold;
-    background: #7f0017;
     border-radius: $border-radius;
 
     &:hover {
