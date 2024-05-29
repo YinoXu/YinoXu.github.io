@@ -5,6 +5,7 @@ html {
   /* sticky footer fix */
   position: relative;
   min-height: 100%;
+  background-color: rgb(255, 246, 235);
 }
 
 body {
@@ -14,6 +15,7 @@ body {
   color: #17202A;
   font-family: $global-font-family;
   line-height: 1.5;
+  background-color: rgb(255, 246, 235);
 
   &.overflow--hidden {
     /* when primary navigation is visible, the content in the background won't scroll */

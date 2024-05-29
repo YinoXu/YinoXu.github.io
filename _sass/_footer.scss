@@ -30,6 +30,7 @@
     margin-top: 2em;
     max-width: 100%;
     padding: 0 1em 2em;
+    background-color:#FDF2E9;
 
     @include breakpoint($x-large) {
       max-width: $x-large;

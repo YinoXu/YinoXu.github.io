@@ -10,6 +10,7 @@
   padding-right: 3em;
   animation: intro 0.3s both;
   animation-delay: 0.35s;
+  background-color: transparent;
 
   @include breakpoint($x-large) {
     max-width: $x-large;
@@ -23,6 +24,7 @@
     @include suffix(2 of 12);
     padding-left: 2em; // Added padding to create space
     padding-right: 2em; // Added padding for symmetry
+    
   }
 
   .page__inner-wrap {
@@ -76,6 +78,7 @@
 
   a {
     text-decoration: underline;
+    color: #920e0e;
 
     &:hover {
       text-decoration: underline;
@@ -145,7 +148,7 @@
     .page__lead,
     .btn {
       color: #fff;
-      text-shadow: 1px 1px 4px rgba(#000, 0.5);
+      text-shadow: 1px 1px 4px rgba(#000000, 0.5);
     }
 
     .page__lead {
