@@ -10,17 +10,34 @@ redirect_from:
 {% include base_path %}
 
 ## <span style="color:lightseagreen;">  Education </span>
-* **M.S. in Computer and Information Science**, <span style="color:crimson;">University of Pennsylvania</span>, Feb. 2021 - May 2024
+* **M.S. in Computer and Information Science**, <span style="color:crimson;">University of Pennsylvania</span>, Aug. 2024 - May 2026
 
 * **B.A. in Computer Science**, <span style="color:blueviolet;">New York University</span>, Aug. 2020 - May 2024
   * Relevant Coursework: Algorithms, Machine Learning, Graphics, Computer Systems Org, OOP, Web Design, Computer Simulation, Data Management and Analysis, Applied Internet Technology, Parallel Computing, Numerical Analysis, Applied Cryptography & Network Security, Analysis, Discrete Math, Ordinary Differential Equations
-  * GPA: 3.88/4.00
+  * GPA: 3.9/4.00
   * [University Honors Scholar](https://www.nyu.edu/students/student-information-and-resources/registration-records-and-graduation/graduation-and-diplomas/graduation-honors.html#university_honors)
   * [Dean’s List for Academic Year (2020-2024)](https://steinhardt.nyu.edu/current-students/student-funding-awards-and-honors/undergraduate-honors-and-awards/deans-lists)
   * [NYU Cum laude](https://www.nyu.edu/students/student-information-and-resources/registration-records-and-graduation/graduation-and-diplomas/graduation-honors.html)
 
 
 ## <span style="color:lightseagreen;">Research Experience</span>
+
+### Jun 2024 - Present: Research Assistant in Conputer-Assist Diagnosis
+* **Institution**: Capital Normal University
+* **Duties**:
+  * Enhance segmentation accuracy for small abdominal organs, achieving notable gains on diverse datasets.
+  * Improve pre-trained models to capture organ geometrical features, enhancing clinical application reliability.
+  * Increase model differentiation between small organs and adjacent structures, improving diagnostic precision.
+* **Supervisor**: Dr. Hongxiao Wang
+
+### Jun 2024 - Jul 2024: Student Researcher
+* **Institution**: Microsoft Research Lab
+* **Duties**:
+  * Completed intensive data science program, acquiring, cleaning, and analyzing real-world data.
+  * Collaborated on research projects with Microsoft Research scientists, enhancing teamwork skills.
+  * Applied machine learning to assess CitiBike's impact in NYC, providing measurable insights.
+  * Utilized Python and R for data analysis, delivering actionable insights on CitiBike deployment.
+* **Supervisor**: Dr. Jake Hofman
 
 ### Sep 2023 - Feb 2024: Research Assistant on Web Navigation
 * **Institution**: New York University
