@@ -7,7 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I'm a Master's student in [Computer and Information Science](https://www.cis.upenn.edu/) from [University of Pennsylvania](https://www.upenn.edu/). My primary research interests lie at the intersection of AI and law, focusing on AI’s implications in the legal field, particularly in automatic generation techniques. Additionally, I am interested in computer-assisted diagnosis, particularly in enhancing segmentation accuracy for small abdominal organs using machine learning models. I am also focused on improving model differentiation between small organs and adjacent structures to increase clinical application reliability.
+I am a first-year Master's student in [Computer and Information Science](https://www.cis.upenn.edu/) with a concentration in Artificial Intelligence at the [University of Pennsylvania](https://www.upenn.edu/). My research focuses on improving AI by addressing biases and logical inconsistencies, with the goal of making AI systems more human-like in their reasoning and decision-making. I am particularly interested in enhancing AI’s understanding of the world and its ability to provide ethically sound and context-aware solutions. Additionally, I am passionate about biomedical image segmentation, especially improving accuracy in segmenting small abdominal organs, which is crucial for increasing the reliability of machine learning models in clinical applications. I aspire to advance AI research, refining systems to not only perform effectively but also think critically and ethically, with impactful real-world applications in healthcare and beyond.
+
+I am excited to further contribute to these areas through a Ph.D. program, with the aim of refining AI ystems to not only perform effectively but also think critically and ethically.
 
 I was a member of [NYU Women in Science (Wins)](https://cas.nyu.edu/wins.html), a program recognizing undergraduate scholars for academic achievement and commitment to STEM inclusivity.
 
