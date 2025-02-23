@@ -25,7 +25,7 @@ author:
   name             : "Yinuo Xu"
   pronouns         : "She/Her" # example: "she/her"  
   bio              : "Tech Enthusiast"
-  location         : "3025 JFK Blvd, Philadelphia"
+  #location         : "3025 JFK Blvd, Philadelphia"
   employer         : "University of Pennsylvania"
   #uri              : "https://github.com/YinoXu/" # URL
   #email            : "xuyinuo@seas.upenn.edu" 
@@ -55,7 +55,7 @@ author:
   # goodreads        : # Username
   # google_plus      : # Username
   # keybase          : # Username
-  instagram        : "yinoo_xu"
+  # instagram        : "yinoo_xu"
   # lastfm           : # Username
   linkedin         : "yinuo-xu-430b0b203"
   # mastodon         : # URL
