@@ -9,120 +9,100 @@ redirect_from:
 
 {% include base_path %}
 
-## <span style="color:lightseagreen;">  Education </span>
+## <span style="color:lightseagreen;"> Education </span>
 * **M.S. in Computer and Information Science**, <span style="color:crimson;">University of Pennsylvania</span>, Aug. 2024 - May 2026
+  * GPA: 4.0/4.0
+  * Relevant Coursework: Machine Learning, Natural Language Processing, Advanced Topics in Deep Learning, Bayesian Optimization
 
-* **B.A. in Computer Science**, <span style="color:blueviolet;">New York University</span>, Aug. 2020 - May 2024
-  * Relevant Coursework: Algorithms, Machine Learning, Graphics, Computer Systems Org, OOP, Web Design, Computer Simulation, Data Management and Analysis, Applied Internet Technology, Parallel Computing, Numerical Analysis, Applied Cryptography & Network Security, Analysis, Discrete Math, Ordinary Differential Equations
-  * GPA: 3.9/4.00
-  * [University Honors Scholar](https://www.nyu.edu/students/student-information-and-resources/registration-records-and-graduation/graduation-and-diplomas/graduation-honors.html#university_honors)
-  * [Dean’s List for Academic Year (2020-2024)](https://steinhardt.nyu.edu/current-students/student-funding-awards-and-honors/undergraduate-honors-and-awards/deans-lists)
-  * [NYU Cum laude](https://www.nyu.edu/students/student-information-and-resources/registration-records-and-graduation/graduation-and-diplomas/graduation-honors.html)
+* **B.A. in Computer Science and Mathematics**, <span style="color:blueviolet;">New York University</span>, Feb. 2021 - May 2024
+  * GPA: 3.88/4.0
+  * Relevant Coursework: Algorithms, Machine Learning, Computer Graphics, Computer Systems Organization, Data Management and Analysis, Computer Simulation, Parallel Computing, Numerical Analysis, Real Analysis, Ordinary Differential Equations
+  * Honors: University Honors Scholar, Dean’s List (2020–2023), Cum Laude
 
+## <span style="color:lightseagreen;"> Research Experience </span>
 
-## <span style="color:lightseagreen;">Research Experience</span>
+### Research Assistant — University of Pennsylvania
+*Feb 2025 – Present*
+* Advisor: Prof. Zhi Huang  
+* Developed **NuClass**, a vision–language foundation model for zero-shot nuclei classification via alignment of ViT-based visual features with ontology-grounded text embeddings.
+* Trained on 8.3M+ patch-level annotations across 11 histopathology datasets and evaluated across diverse tissue types and imaging modalities.
+* Achieved SOTA performance under annotation-scarce settings.
 
-### Jun 2024 - Present: Research Assistant in Conputer-Assist Diagnosis
-* **Institution**: Capital Normal University
-* **Duties**:
-  * Enhance segmentation accuracy for small abdominal organs, achieving notable gains on diverse datasets.
-  * Improve pre-trained models to capture organ geometrical features, enhancing clinical application reliability.
-  * Increase model differentiation between small organs and adjacent structures, improving diagnostic precision.
-* **Supervisor**: Dr. Hongxiao Wang
+### Research Assistant — University of Pennsylvania
+*Aug 2024 – Present*
+* Advisor: Prof. Dan Roth  
+* Co-led the development of **DeepTraceReward**, a benchmark for video fakeness evaluation with temporally and spatially localized human annotations.
+* Designed multimodal annotation schema and trained reward models that outperformed GPT-4.1 by 20.5%.
 
-### Jun 2024 - Jul 2024: Student Researcher
-* **Institution**: Microsoft Research Lab
-* **Duties**:
-  * Completed intensive data science program, acquiring, cleaning, and analyzing real-world data.
-  * Collaborated on research projects with Microsoft Research scientists, enhancing teamwork skills.
-  * Applied machine learning to assess CitiBike's impact in NYC, providing measurable insights.
-  * Utilized Python and R for data analysis, delivering actionable insights on CitiBike deployment.
-* **Supervisor**: Dr. Jake Hofman
+### Research Assistant — Capital Normal University
+*Jun 2024 – Sep 2024*
+* Advisor: Prof. Hongxiao Wang  
+* Enhanced segmentation accuracy for small abdominal organs by fine-tuning MedSAM on 8k radiology images.
+* Applied geometric enhancement techniques to improve clinical reliability of small organ recognition.
 
-### Sep 2023 - Feb 2024: Research Assistant on Web Navigation
-* **Institution**: New York University
-* **Duties**:
-  * Developed and optimized a Python script to automate the data extraction from one million files in ProQuest.
-  * Employed Selenium for automated web navigation to retrieve up-to-date files for analysis.
-  * Leveraged PyPDF2 library to programmatically read, extract, and manipulate text data from PDF documents.
-  * Utilized pandas for data manipulation and cleaning, ensuring the extracted data is accurate and ready for analysis.
-* **Supervisor**: Dr. Terrance Chen
+### Research Assistant — Microsoft Research NYC
+*Jun 2024 – Jul 2024*
+* Supervisor: Dr. Jake Hofman  
+* Participated in intensive data science program focused on real-world analytics and ML applications.
+* Collaborated on research assessing CitiBike’s impact using Python and R for statistical modeling and visualization.
 
-### Apr 2023 - Mar 2024: Research Assistant on Data Analysis
-* **Institution**: New York University Shanghai
-* **Duties**:
-  * Collected data in diverse formats, including pre-processing of CSV/JSON files using the pandas library.
-  * Performed web scraping and analysis using BeautifulSoup for efficient data extraction.
-  * Inspected and cleansed CUSMA data from **96** chapters, each containing over **50,000** data points, using pandas DataFrame and numpy for streamlined data manipulation and processing.
-  * Imported data and generated insightful visualizations using matplotlib.
-* **Supervisor**: Dr. Nan Xu
+## <span style="color:lightseagreen;"> Work Experience </span>
 
-### Aug 2023 - Feb  2024: Research Assistant on Bilateral Trade
-* **Institution**: New York University Shanghai
-* **Duties**:
-  * Conducted advanced econometric analysis on extensive U.S. import data using Stata for model optimization.
-  * Developed maximum likelihood estimation models, refining predictive insights for trade quality studies.
-  * Analyzed trade costs, creating visualizations to identify key trends for strategic decision support.
-* **Supervisor**: Dr. Nan Xu
+### Data Analyst Intern — Qihoo Technology Co., Ltd
+*Jun 2023 – Aug 2023*
+* Supervisor: Xiaobing Wen  
+* Reorganized commercial databases by traffic and customer segments.
+* Extracted SQL statements and translated platform specs into Figma-aligned UI for internal STARK platform.
 
-## <span style="color:lightseagreen;">Work Experience</span>
+### Data Analyst Intern — Huashi Private Equity Fund Management
+*Jun 2022 – Sep 2022*
+* Supervisor: Xiaojing Ji  
+* Developed bespoke trading algorithms and implemented SQL/Python workflows for investment analysis.
 
-### Jun 2023 - Aug 2023: Data Analyst Intern
-* **Institution**: Qihoo Technology Co., Ltd, China
-* **Duties**:
-  * Organized the company's databases in terms of both traffic and customer dimensions for commercialization.
-  * Extracted specific MySQL statements from the company's wiki and organized them into Excel spreadsheets.
-  * Designed the prototype for the STARK one-stop data development platform aligned with Figma designs.
-* **Supervisor**: Xiaobing Wen
+### Teaching Assistant — New York University
+*Feb 2023 – May 2024*
+* Courses: Data Structures (Prof. Joanna Klukowska), Calculus (Prof. Silvia Espinosa Gútiez)
+* Graded assignments, provided student feedback, proofread class materials, and participated in staff meetings.
 
-### Jun 2022 - Sep 2022: Data Analyst Intern
-* **Institution**: Huashi Private Equity Fund Management Co., Ltd, China
-* **Duties**:
-  * Crafted and implemented bespoke trading algorithms, utilizing a multitude of programming languages to ensure seamless strategy execution.
-  * Employed SQL and Python to enhance database analysis, accomplishing data operation tasks and fostering data-driven decision-making processes.
-* **Supervisor**: Xiaojing Ji
+## <span style="color:lightseagreen;"> Selected Projects </span>
 
-### Feb 2023 - May 2024: Teaching Assistant
-* **Institution**: New York University
-* **Duties**:
-  * Served as a Teaching Assistant in Data Structures course for two semesters under Dr. Joanna Klukowska, and in Calculus course for two semesters under Dr. Silvia Espinosa Gútiez.
-  * Graded regular homework/assignments and provided thorough feedback to students.
-  * Worked with instructors to proofread and verify class materials, participated in staff meetings.
-* **Supervisors**: Dr. Joanna Klukowska and Dr. Silvia Espinosa Gútiez
+### Classification of Model-Generated Text
+* Investigated classifier performance on GPT-4, Grok, and LLaMA outputs using Gradient Boosting based on linguistic features.
+* Achieved 97.9% accuracy in three-way classification, revealing model-specific text "fingerprints."
 
-## <span style="color:lightseagreen;">Skills</span>
-* **Programming Languages**: Python, Java, Javascript, C++, C, HTML, CSS, MATLAB, Stata
-* **Frameworks & Libraries**:
-  * Numpy
-  * PyTorch
-  * Pandas
-  * Matplotlib
-  * TensorFlow
-  * Node.js
-  * Express.js
-* **Technologies & Tools**: Selenium, SQLAlchemy, Sass, Jupyter Notebook, LaTeX, Mocha, Chai, Figma, Git
+### Digital Acoustic Simulation of the Piano
+* Used MATLAB and wave equations to simulate string vibration and acoustic output of piano.
+* Validated synthesis by comparing simulated audio to real recordings.
+
+## <span style="color:lightseagreen;"> Skills </span>
+* **Languages**: Python, Java, JavaScript, C++, C, HTML, CSS, MATLAB, Stata
+* **Frameworks & Libraries**: PyTorch, TensorFlow, NumPy, Pandas, Matplotlib, ScanPy
+* **Technologies & Tools**: LaTeX, Selenium, SQLAlchemy, Git, Figma, Mocha, Chai, Jupyter
 * **Databases**: MySQL, PostgreSQL, MongoDB, Neo4j
-* **Languages**: English, Mandarin
+* **Languages**: English (GRE 332/3.5, TOEFL 105), Mandarin (Native)
 
-## Publications
+## <span style="color:lightseagreen;"> Publications </span>
 <ul>
   {% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}
 </ul>
 
-## Talks
+## <span style="color:lightseagreen;"> Talks </span>
 <ul>
   {% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}
 </ul>
 
-## Teaching
+## <span style="color:lightseagreen;"> Teaching </span>
 <ul>
   {% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}
 </ul>
 
-## Service and Leadership
+## <span style="color:lightseagreen;"> Service and Leadership </span>
+* STEM Outreach Coordinator at NYU Women in Science (2022–2024):
+  * Mentored NYC high school students in STEM projects and competitions.
+  * Organized events with top researchers to support young women in STEM.

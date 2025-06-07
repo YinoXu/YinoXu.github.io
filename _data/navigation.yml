@@ -1,10 +1,18 @@
 # main links links
 main:
-  # - title: "Resume"
-  #   url: /cv/
+  - title: "About me"
+    url: /about/
 
-  - title: "Portfolio"
-    url: /portfolio/
+  - title: "Resume"
+    url: /cv/
+
+  # - title: "Portfolio"
+  #   url: /portfolio/
+
+  - title: "Misc"
+    url: /misc/
 
   - title: "Blog Posts"
     url: /year-archive/
+
+
