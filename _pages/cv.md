@@ -81,14 +81,14 @@ redirect_from:
 * **Databases**: MySQL, PostgreSQL, MongoDB, Neo4j
 * **Languages**: English (GRE 332/3.5, TOEFL 105), Mandarin (Native)
 
-## <span style="color:lightseagreen;"> Publications </span>
+<!-- ## <span style="color:lightseagreen;"> Publications </span>
 <ul>
   {% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}
-</ul>
+</ul> -->
 
-## <span style="color:lightseagreen;"> Talks </span>
+<!-- ## <span style="color:lightseagreen;"> Talks </span>
 <ul>
   {% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html %}
@@ -100,7 +100,7 @@ redirect_from:
   {% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}
-</ul>
+</ul> -->
 
 ## <span style="color:lightseagreen;"> Service and Leadership </span>
 * STEM Outreach Coordinator at NYU Women in Science (2022–2024):
