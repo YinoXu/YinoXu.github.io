@@ -3,9 +3,7 @@ layout: page
 title: "Miscellaneous"
 permalink: /misc/
 author_profile: true
-redirect_from: 
-  - /misc/
-  - /misc.html
+
 ---
 
 ## 🌊 My Hometown: Qingdao
