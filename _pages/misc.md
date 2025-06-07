@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: archive
 title: "Miscellaneous"
 permalink: /misc/
 author_profile: true
@@ -19,7 +19,7 @@ I was raised in **Qingdao (青岛)**, a beautiful coastal city in eastern China.
 
 Since middle school, I’ve been deeply drawn to the cinematic melancholy and poetic storytelling of **Lana Del Rey**. Her music evokes both nostalgia and dreaminess, which resonates with many moments in my life. Over the years, I’ve collected many of her **vinyl records**, and they remain some of my most cherished possessions.
 
-![Lana Vinyl Collection](/images/lana_vinyls.jpg)
+![Lana Vinyl Collection](../images/lana_vinyls.heic)
 
 ---
 
@@ -27,7 +27,7 @@ Since middle school, I’ve been deeply drawn to the cinematic melancholy and po
 
 I’m also a **beginner film camera collector and hobbyist**. I love how film captures imperfections, shadows, and quiet details that digital often misses. Whether it’s a friend laughing under sunlight or a blurry café street in the rain, my cameras help me freeze time in its most delicate form.
 
-![Film Cameras](/images/film_cameras.jpg)
+![Film Cameras](../images/film_cameras.heic)
 
 ---
 
