@@ -81,6 +81,8 @@ redirect_from:
 * **Databases**: MySQL, PostgreSQL, MongoDB, Neo4j
 * **Languages**: English (GRE 332/3.5, TOEFL 105), Mandarin (Native)
 
+{% comment %}
+
 <!-- ## <span style="color:lightseagreen;"> Publications </span>
 <ul>
   {% for post in site.publications reversed %}
@@ -101,6 +103,7 @@ redirect_from:
     {% include archive-single-cv.html %}
   {% endfor %}
 </ul> -->
+{% endcomment %}
 
 ## <span style="color:lightseagreen;"> Service and Leadership </span>
 * STEM Outreach Coordinator at NYU Women in Science (2022–2024):
